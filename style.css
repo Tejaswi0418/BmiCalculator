@@ -1,0 +1,54 @@
+/* App.css (or your global CSS file) */
+body{
+  background-color: violet;
+}
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  .BmiCalculator {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 5px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 5px;
+  }
+  
+  button {
+    background-color: #430fb4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  p {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
